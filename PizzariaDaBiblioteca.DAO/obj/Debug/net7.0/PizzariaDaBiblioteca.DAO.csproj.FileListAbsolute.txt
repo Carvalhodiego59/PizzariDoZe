@@ -1,0 +1,12 @@
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\bin\Debug\net7.0\PizzariaDaBiblioteca.DAO.deps.json
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\bin\Debug\net7.0\PizzariaDaBiblioteca.DAO.dll
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\bin\Debug\net7.0\PizzariaDaBiblioteca.DAO.pdb
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\obj\Debug\net7.0\PizzariaDaBiblioteca.DAO.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\obj\Debug\net7.0\PizzariaDaBiblioteca.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\obj\Debug\net7.0\PizzariaDaBiblioteca.DAO.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\obj\Debug\net7.0\PizzariaDaBiblioteca.DAO.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\obj\Debug\net7.0\PizzariaDaBiblioteca.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\obj\Debug\net7.0\PizzariaDaBiblioteca.DAO.dll
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\obj\Debug\net7.0\refint\PizzariaDaBiblioteca.DAO.dll
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\obj\Debug\net7.0\PizzariaDaBiblioteca.DAO.pdb
+C:\Users\Diego\Desktop\Faculdade\3° semestre\desenvolvimento de sistemas\visual studio\ProjetoDevSistemas2023\PizzariaDaBiblioteca.DAO\obj\Debug\net7.0\ref\PizzariaDaBiblioteca.DAO.dll

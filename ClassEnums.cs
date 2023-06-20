@@ -1,0 +1,78 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+using System.Reflection;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProjetoDevSistemas2023
+{
+        public static class EnumExtensions
+        {
+            public static string GetDescription(this Enum GenericEnum)
+            {
+                Type genericEnumType = GenericEnum.GetType();
+                MemberInfo[] memberInfo = genericEnumType.GetMember(GenericEnum.ToString());
+                if ((memberInfo != null && memberInfo.Length > 0))
+                {
+                    var _Attribs = memberInfo[0].GetCustomAttributes(typeof(DescriptionAttribute), false);
+                    if ((_Attribs != null && _Attribs.Count() > 0))
+                    {
+                        return ((DescriptionAttribute)_Attribs.ElementAt(0)).Description;
+                    }
+                }
+                return GenericEnum.ToString();
+            }
+        }
+    public enum EnumFuncionarioGrupo
+    {
+        [Description("Administrador")]
+        radioButtonGrupoAdmin = 1,
+        [Description("Atendente")]
+        radioButtonGrupoAtendente = 2,
+        [Description("Entregador")]
+        radioButtonEntregador = 3,
+    }
+
+    public enum EnumValorTamanho
+    {
+        [Description("Pequena")]
+        Pequena = 'P',
+        [Description("Média")]
+        Media = 'M',
+        [Description("Grande")]
+        Grande = 'G',
+        [Description("Família")]
+        Família = 'F'
+    }
+
+    public enum EnumSaborCategoria
+    {
+        [Description("Tradicional")]
+        Tradicional = 'T',
+        [Description("Especial")]
+        Especial = 'E'
+    }
+    public enum EnumSaborTipo
+    {
+        [Description("Doce")]
+        Doce = 'D',
+        [Description("Salgada")]
+        Salgada = 'S'
+    }
+    public enum EnumProdutoTipo
+    {
+        [Description("Refrigerante")]
+        Refrigerante = 'R',
+        [Description("Cerveja")]
+        Cerveja = 'C',
+        [Description("Suco")]
+        Suco = 'S',
+        [Description("Água")]
+        Agua = 'A',
+        [Description("Outros")]
+        Outros = 'O'
+    }
+
+}
